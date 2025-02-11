@@ -32,7 +32,7 @@ Options:
  ``` 
 ## Download.
 
-[Release](https://github.com/gentlehill/uchardet/releases/tag/Windows "Release")
+[uchardet for Windows(x64) ignore dll version](https://github.com/gentlehill/uchardet/archive/refs/heads/main.zip "uchardet for Windows(x64) ignore dll version")
 
 ## Changelog
 
